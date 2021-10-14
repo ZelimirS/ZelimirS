@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZelimirS
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning algorithms, bioinformatics, Java
-- 💞️ I’m looking to collaborate on business environment projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: zelimir.s.bl@gmail.com
 
 <!---
